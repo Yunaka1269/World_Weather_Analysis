@@ -10,7 +10,7 @@
 
 ##Results:
 
-I input min 75F and max 95F in the user input field when filtering the weather data. Majority of cities that stay on dataframe as potential destination are located in Southern hemisphere. This is because the weather data was pulled on mid October and many cities in Nothern hemisphere are filtered out based on the current temperature. Also, we need to be aware that some city temperature swing so much by one day. The user may receive a different result set depending on the timing.  
+I input min 75F and max 95F in the user input field when filtering the weather data. Majority of cities that stay on dataframe as potential destination are located in Southern hemisphere or close to the equator. This is because the weather data was pulled on mid October and many cities in Nothern hemisphere are filtered out based on the current temperature. Also, we need to be aware that some city temperature swing so much by one day. The user may receive a different result set depending on the timing.  
 
 [Vacation_Search_Map](https://github.com/Yunaka1269/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)
 
