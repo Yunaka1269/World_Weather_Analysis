@@ -29,12 +29,17 @@ I input min 75F and max 95F in the user input field when filtering the weather d
 ###Module Error
 
 - module was not found by Jupyter Notebook though it is in the folder
+
 	-import import_ipynb
 		-this didn't fix issue
+		
 	-import os
+	
 	-os.getcwd()
 		-to display current path
+		
 	-import sys
+	
 	-sys.path.append("folder directory")
 		-change the file path
 
