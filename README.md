@@ -47,6 +47,7 @@ I input min 75F and max 95F in the user input field when filtering the weather d
 ##Summary:
 
 Business recommendation that I could offer to improve the PlanMyTrip app are
+- input("Which city would you like to travel?") can be added to Derivarable #3 after prompting to input temperature to filter cities. But input city has to be exact match with values in DataFrame. Use If/Else and set up else statement to come back something like ("City not found") in case of discrepancy. 
 - add seasonality and get average weather or temperatuer of week/month of city to prevent unnecessary filtering 
 - add more than one recommended hotel and enable the direct link to hotel website
 - add trip duration information in Travel Itinerary Map  
